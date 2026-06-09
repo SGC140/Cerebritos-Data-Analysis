@@ -1,0 +1,10 @@
+#Archivos
+*.csv
+
+#Variables de entorno
+.env
+
+#Carpetas
+venv/
+
+
